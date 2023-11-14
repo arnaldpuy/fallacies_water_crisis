@@ -1,4 +1,15 @@
+# Ignore everything -----
+/*
+
+# But not these files...
+!code_fallacies_water_crisis.pdf
+!code_fallacies_water_crisis.R
+!code_fallacies_water_crisis.Rmd
+
+!README.md
+
+# Files
+!daily-protein-supply-from-animal-and-plant-based-foods.csv 
+!HESS_2010_159_Supplement_S2.xls!
+
 .Rproj.user
-.Rhistory
-.RData
-.Ruserdata

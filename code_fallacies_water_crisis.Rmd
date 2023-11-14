@@ -70,7 +70,7 @@ land_runoff_estimate <- 46000
 land_runoff_min <- land_runoff_estimate - (land_runoff_estimate  * 0.1)
 land_runoff_max <- land_runoff_estimate + (land_runoff_estimate  * 0.1)
 
-# RETRIEVE DATA FOR KILOCALORIES ###############################################
+# RETRIEVE DATA FOR KILOCALORIES ##############################################
 
 # Read the HTML content of the website 
 webpage <- read_html("https://en.wikipedia.org/wiki/List_of_countries_by_food_energy_intake#cite_note-8") 
